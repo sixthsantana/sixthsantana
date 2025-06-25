@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Chris Batista
 
-<!--
-**sixthsantana/sixthsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About Me
+- 🎓 Studying Computer Science at URI
+- 🎥 Passionate about capturing compelling stories through a lens
+- 🌱 Currently learning full-stack development and machine learning
+- 🔧 Open to internships and collaborative projects that combine tech and creativity
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Current Projects
+- **Hand Tracking**  
+  Developing a real-time hand tracking system using AI and computer vision to detect hand movements.
+
+- **Volume Hand Control**  
+  An extension of the hand tracking project that allows users to raise or lower system volume using hand gestures.
+
+- **YouTube Downloader**  
+  A tool that downloads YouTube videos in either MP3 (audio) or MP4 (video) formats, with a simple user interface.
+
+- **Image Converter**  
+  A flexible image conversion tool that supports various formats (e.g., PNG to WEBP, JPEG to BMP).
+
+
+
+## 🧰 Tech Stack
+- **Languages**: Python, C++, JavaScript
+- **Tools**: Git, VS Code, Adobe Premiere Pro, Davinci Resolve, Adobe LightRoom
+
+## 📸 Creative Work
+In addition to programming, I run a visual media page where I showcase my portrait and sports photography projects. I'm especially interested in using tech to enhance visual storytelling, such as using AI for photo enhancement or automation in video editing.
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/chris-batista/)  
+- [Instagram Portfolio](https://www.instagram.com/crispysvisuals/)  
+- 📧 Email: crispyvisuals76@gmail.com
