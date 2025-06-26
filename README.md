@@ -24,7 +24,7 @@
 
 ## 🧰 Tech Stack
 - **Languages**: Python, C++, JavaScript
-- **Tools**: Git, VS Code, Adobe Premiere Pro, Davinci Resolve, Adobe LightRoom
+- **Tools**: Git, VS Code, Adobe Premiere Pro, Davinci Resolve, Adobe Lightroom, Adobe Photoshop
 
 ## 📸 Creative Work
 In addition to programming, I run a visual media page where I showcase my portrait and sports photography projects. I'm especially interested in using tech to enhance visual storytelling, such as using AI for photo enhancement or automation in video editing.
