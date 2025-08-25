@@ -26,7 +26,7 @@
 
 
 ## 🧰 Tech Stack
-- **Languages**: Python, C++, JavaScript
+- **Languages**: Python, C++, JavaScript, HTML, CSS
 - **Tools**: Git, VS Code, Adobe Premiere Pro, Davinci Resolve, Adobe Lightroom, Adobe Photoshop
 
 ## 📸 Creative Work
