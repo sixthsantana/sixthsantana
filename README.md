@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Chris Batista
 
 ## 🎯 About Me
-- 🎓 Studying Computer Science with a minor in Photography at URI
+- 🎓 Studying Computer Science with a interest in a minor in Photography at URI
 - 🎥 Passionate about capturing compelling stories through a lens
 - 🌱 Currently learning full-stack development and machine learning
 - 🔧 Open to internships and collaborative projects that combine tech and creativity
